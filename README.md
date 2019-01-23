@@ -1,5 +1,5 @@
 
-## __[Sublime Text 3(https://www.sublimetext.com/)__ 
+## __[Sublime Text 3](https://www.sublimetext.com/)__ 
 
 ----
 ### __Gõ tiếng việt trong sublime text 3__
